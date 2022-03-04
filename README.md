@@ -6,7 +6,7 @@
 
 *Example*
 
-```console
+```
 cargo run -- 1 + 2
 "1 + 2 = 3"
 
