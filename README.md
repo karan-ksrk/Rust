@@ -19,4 +19,3 @@ cargo run -- 12 / 4
 cargo run -- 5 x 8
 "5 x 8 = 40"
 ```
-
